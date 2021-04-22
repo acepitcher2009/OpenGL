@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\acepi\source\repos\Final Project\Final Project\Source.cpp(311,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\acepi\source\repos\Final Project\Final Project\Source.cpp(431,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\acepi\source\repos\Final Project\Final Project\Source.cpp(432,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\acepi\source\repos\Final Project\Final Project\Source.cpp(436,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\acepi\source\repos\Final Project\Final Project\Source.cpp(437,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\acepi\source\repos\Final Project\Final Project\Source.cpp(439,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\acepi\source\repos\Final Project\Final Project\Source.cpp(440,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\acepi\source\repos\Final Project\Final Project\Source.cpp(450,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\acepi\source\repos\Final Project\Final Project\Source.cpp(844,5): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Final Project.vcxproj -> C:\Users\acepi\source\repos\Final Project\Debug\Final Project.exe
