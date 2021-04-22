@@ -1,0 +1,10 @@
+# OpenGL
+How do I approach designing software?
+When thinking of designing software and what skills were used in my work on this project, I find that most of the skills used I had already learned. This is because when designing software, you always want to adhere to best practices. This means that when creating the software, the design should be simple and uncluttered, as well as easy to use. When designing this software, the process I followed was quite simple. I read the requirements and implemented each requirement using best practices and principles. Using this approach can be used in future work because it would allow for all my future work to be used by any other developer or engineer if they choose to do so. 
+
+How do I approach developing programs?
+When working on this project I found myself using the same development strategies as I have always used. This would be making the code modular and reusable. This allows for other developers to implement their needs into the program to fit their requirements. Iteration in this project was almost a must. This is because for the lights to operate the way I needed them to work I had to iterate through arrays for the light color, scale, and positions. When developing this project, my approach to developing the code evolved greatly. This is because I had trouble using indices to lay the texture on the objects. This led me to changing from using indices to using nothing but vertices.
+
+How can computer science help me in reaching my goals?
+Computer science itself will help me achieve my goals because I am looking to become a software engineer. Computational graphics and visualizations gave me new knowledge. However, this knowledge will not be useful for me to achieve my end goal. It also will not be applied in my future education. This is because I feel computational graphics, for the field I am looking to go into, is not used. On the same note, I do not see how computational graphics and visualizations has given me any new knowledge to use on my journey to become a software engineer. 
+ 
